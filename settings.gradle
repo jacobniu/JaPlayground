@@ -1,1 +1,1 @@
-include ':app', ':vstech'
+include ':app', ':vstech', ':patterns'
